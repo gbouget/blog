@@ -15,7 +15,7 @@ Ainsi, nos comportements financiers évoluent dans une sorte de clair-obscur ré
 
 ## L'argent comme pinceau : l'art délicat de peindre le bonheur
 
-La métaphore du marteau illustre cette recherche d'équilibre : l'outil ne procure pas la joie par essence, mais permet de bâtir un abri. De même, l'argent demeure avant tout un instrument d'échange — une langue universelle, qui traduit travail, temps et compétences en biens tangiles, services rendus ou expériences vécues. S'il peut ouvrir les portes de la liberté ou de la sécurité, il ne construit pas le bien-être à lui seul. Le lien entre richesse et bonheur relève davantage d'une corrélation que d'une causalité directe.
+La métaphore du marteau illustre cette recherche d'équilibre : l'outil ne procure pas la joie par essence, mais permet de bâtir un abri. De même, l'argent demeure avant tout un instrument d'échange — une langue universelle, qui traduit travail, temps et compétences en biens tangibles, services rendus ou expériences vécues. S'il peut ouvrir les portes de la liberté ou de la sécurité, il ne construit pas le bien-être à lui seul. Le lien entre richesse et bonheur relève davantage d'une corrélation que d'une causalité directe.
 
 Les recherches, notamment celles de Kahneman et Deaton, suggèrent une vérité troublante : la relation entre revenus et bien-être suit une courbe non linéaire. Les premiers euros soulagent l'urgence du quotidien et procurent des bénéfices substantiels. Puis la courbe s'infléchit, chaque supplément de revenu apportant une amélioration de plus en plus marginale, comme un écho dont la résonance s'affaiblit à mesure qu'il s'éloigne. Toutefois, cette géométrie du bien-être, bien qu'affinée par des décennies de recherche, continue de diviser les esprits scientifiques.
 
