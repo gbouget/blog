@@ -11,7 +11,7 @@ Il est tentant de réduire la gestion financière à deux figures opposées : l'
 
 Pourtant, ces portraits, aussi évocateurs soient-ils, sonnent comme des caricatures et ne sauraient saisir toute la complexité de la réalité. La plupart d'entre nous naviguent entre ces extrêmes, au gré des circonstances, des craintes ou des aspirations du moment. Ce spectre de nuances n'est pas un simple compromis : il incarne une forme d'humanité pragmatique, faite de discernement et de cette subtilité qui consiste à savoir quand retenir… et quand s'élancer.
 
-Ainsi, nos comportements financiers évoluent dans une sorte de clair-obscur révélant une tension permanente : l'élan vers la lumière — qu'il s'agisse d'accumuler ou de dépenser — vise à apaiser des peurs profondes, mais l'excès finit par assombrir ce qu'il cherchait à éclairer. C'est dans cette zone grise que se noue un équilibre délicat. Prendre conscience de cette dynamique ouvre la voie à une gestion plus réfléchie et harmonieuse.
+Ainsi, nos comportements financiers évoluent dans une sorte de clair-obscur révélant une tension permanente : l'élan vers la lumière — qu'il s'agisse d'accumuler ou de dépenser — vise à apaiser des peurs profondes, mais l'excès finit par assombrir ce qu'il cherchait à éclairer. C'est dans cette zone grise que se noue un équilibre singulier. Prendre conscience de cette dynamique ouvre la voie à une gestion plus réfléchie et harmonieuse.
 
 ## L'argent comme pinceau : l'art délicat de peindre le bonheur
 
