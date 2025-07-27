@@ -1,0 +1,149 @@
+Watching for changes in /home/gbouget/lab/blog/{archetypes,assets,content,data,layouts,static,themes}
+Watching for config changes in /home/gbouget/lab/blog/config.toml
+Start building sites … 
+hugo v0.148.1-98ba786f2f5dca0866f47ab79f394370bcb77d2f linux/arm64 BuildDate=2025-07-11T12:56:21Z VendorInfo=gohugoio
+
+
+                  │ EN 
+──────────────────┼────
+ Pages            │ 23 
+ Paginator pages  │  0 
+ Non-page files   │  0 
+ Static files     │  0 
+ Processed images │  0 
+ Aliases          │  8 
+ Cleaned          │  0 
+
+Built in 21 ms
+Environment: "development"
+Serving pages from disk
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0) 
+Press Ctrl+C to stop
+
+Change detected, rebuilding site (#1).
+2025-07-26 19:05:27.541 +0200
+Source changed /posts/money-light-shadown-happiness.md
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Total in 10 ms
+
+Change of config file detected, rebuilding site (#2).
+2025-07-26 19:06:22.041 +0200
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 108 ms
+
+Change of config file detected, rebuilding site (#3).
+2025-07-26 19:09:00.541 +0200
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 108 ms
+
+Change of config file detected, rebuilding site (#4).
+2025-07-26 19:20:23.042 +0200
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 110 ms
+
+Change of config file detected, rebuilding site (#5).
+2025-07-26 19:20:48.042 +0200
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 106 ms
+
+Change of config file detected, rebuilding site (#6).
+2025-07-26 19:20:58.541 +0200
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 122 ms
+
+Change of config file detected, rebuilding site (#7).
+2025-07-26 19:22:59.541 +0200
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 97 ms
+adding created directory to watchlist /home/gbouget/lab/blog/content/billets
+
+Change detected, rebuilding site (#8).
+2025-07-26 19:23:11.042 +0200
+Source changed /posts/_index.md
+Source changed /billets/money-light-shadown-happiness.md
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Total in 30 ms
+adding created directory to watchlist /home/gbouget/lab/blog/content/articles
+
+Change detected, rebuilding site (#9).
+2025-07-26 19:24:01.542 +0200
+Source changed /billets/_index.md
+Source changed /articles/money-light-shadown-happiness.md
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Total in 28 ms
+
+Change of config file detected, rebuilding site (#10).
+2025-07-26 19:25:28.541 +0200
+ERROR Failed to reload config: failed to load config: "/home/gbouget/lab/blog/config.toml:17:12": unmarshal failed: toml: expected character =
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 88 ms
+
+Change of config file detected, rebuilding site (#11).
+2025-07-26 19:25:36.541 +0200
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 140 ms
+
+Change of config file detected, rebuilding site (#12).
+2025-07-26 19:26:09.041 +0200
+ERROR Failed to reload config: failed to create config from result: failed to decode "menus": unable to cast maps.Params{"name":"Articles", "url":"/posts/", "weight":10} of type maps.Params to []interface {}
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 104 ms
+
+Change of config file detected, rebuilding site (#13).
+2025-07-26 19:26:43.041 +0200
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 155 ms
+
+Change of config file detected, rebuilding site (#14).
+2025-07-26 19:28:52.041 +0200
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 151 ms
+
+Change of config file detected, rebuilding site (#15).
+2025-07-26 19:29:02.541 +0200
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 139 ms
+
+Change of config file detected, rebuilding site (#16).
+2025-07-26 19:29:10.541 +0200
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 151 ms
+
+Change of config file detected, rebuilding site (#17).
+2025-07-26 19:29:17.041 +0200
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 166 ms
+
+Change of config file detected, rebuilding site (#18).
+2025-07-26 19:29:46.542 +0200
+ERROR Failed to reload config: failed to load config: "/home/gbouget/lab/blog/config.toml:1:1": unmarshal failed: toml: key ShowBreadCrumbs is already defined
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 113 ms
+
+Change of config file detected, rebuilding site (#19).
+2025-07-26 19:29:51.041 +0200
+ERROR Failed to reload config: failed to load config: "/home/gbouget/lab/blog/config.toml:1:1": unmarshal failed: toml: key ShowBreadCrumbs is already defined
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 89 ms
+
+Change of config file detected, rebuilding site (#20).
+2025-07-26 19:29:59.041 +0200
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 169 ms
+
+Change of config file detected, rebuilding site (#21).
+2025-07-26 19:30:13.041 +0200
+ERROR Failed to reload config: failed to load config: "/home/gbouget/lab/blog/config.toml:1:1": unmarshal failed: toml: key homeInfoParams should be a table, not a value
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 115 ms
+
+Change of config file detected, rebuilding site (#22).
+2025-07-26 19:30:20.541 +0200
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 189 ms
+
+Change of config file detected, rebuilding site (#23).
+2025-07-26 19:31:18.041 +0200
+Web Server is available at http://192.168.1.34:1313/ (bind address 0.0.0.0)
+Rebuilt in 187 ms
