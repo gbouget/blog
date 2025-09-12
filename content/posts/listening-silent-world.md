@@ -9,13 +9,13 @@ author: "Gaëtan Bouget"
 ShowToc: true
 TocOpen: false
 cover:
-  image: "/images/listening-world-silent.png"
-  thumbnail: "/images/listening-world-silent.png"
+  image: "images/listening-world-silent.png"
+  thumbnail: "images/listening-world-silent.png"
   relative: false
   hiddenInSingle: true
   hiddenInList: true
 images:
-  - "/images/listening-world-silent.png"
+  - "images/listening-world-silent.png"
 ---
 
 {{< fr >}}
