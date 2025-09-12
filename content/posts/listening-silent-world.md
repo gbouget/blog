@@ -2,18 +2,20 @@
 title: "L’écoute d’un monde qui ne parle pas"
 date: 2025-09-12T18:00:00+02:00
 draft: false
+description: "La science éclaire ; au-delà, des eaux corsaires où priment valeurs, intérêts et pouvoirs."
 tags: ["Science", "Épistémologie"]
 categories: ["Philosophie"]
 author: "Gaëtan Bouget"
 ShowToc: true
 TocOpen: false
-images: ["/images/listening-world-silent.png"]
-og_title: "L’écoute d’un monde qui ne parle pas"
-og_description: "La science éclaire ; au-delà, des eaux corsaires où priment valeurs, intérêts et pouvoirs."
-og_image: "/images/listening-world-silent.png"
-twitter_title: "L’écoute d’un monde qui ne parle pas"
-twitter_description: "La science éclaire ; au-delà, des eaux corsaires où priment valeurs, intérêts et pouvoirs."
-twitter_image: "/images/listening-world-silent.png"
+cover:
+  image: "/images/listening-world-silent.png"
+  thumbnail: "/images/listening-world-silent.png"
+  relative: false
+  hiddenInSingle: true
+  hiddenInList: true
+images:
+  - "/images/listening-world-silent.png"
 ---
 
 {{< fr >}}
