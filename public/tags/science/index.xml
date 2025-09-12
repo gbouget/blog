@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Science on Écrits volatiles</title>
+    <link>http://192.168.1.34:1313/tags/science/</link>
+    <description>Recent content in Science on Écrits volatiles</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 12 Sep 2025 16:00:00 +0200</lastBuildDate>
+    <atom:link href="http://192.168.1.34:1313/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L’écoute d’un monde qui ne parle pas</title>
+      <link>http://192.168.1.34:1313/l%C3%A9coute-dun-monde-qui-ne-parle-pas/</link>
+      <pubDate>Fri, 12 Sep 2025 16:00:00 +0200</pubDate>
+      <guid>http://192.168.1.34:1313/l%C3%A9coute-dun-monde-qui-ne-parle-pas/</guid>
+      <description>&lt;p&gt;L’être vivant appréhende le monde à travers ses sens. Le réel, muet, ne se livre qu’en éclats traduits par la perception. La vue en offre un exemple limpide de la transduction à l’œuvre : la lumière, rayonnement électromagnétique, atteint la rétine, où elle est convertie en signaux électrochimiques. Les influx nerveux sont ensuite interprétés par le cortex cérébral en couleurs, contrastes, formes et reliefs. L’audition, le toucher, l’odorat ou encore le goût obéissent au même principe : non pas une reproduction fidèle de ce qui est, mais un reflet façonné par les interfaces biologiques. Ainsi, l’objet perçu n’est pas la chose en soi, mais une construction neuro-sensorielle.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

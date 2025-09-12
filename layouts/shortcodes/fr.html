@@ -1,0 +1,13 @@
+{{- $content := .Inner -}}
+{{- $content = replace $content " :" "&nbsp;:" -}}
+{{- $content = replace $content " ;" "&nbsp;;" -}}
+{{- $content = replace $content " !" "&nbsp;!" -}}
+{{- $content = replace $content " ?" "&nbsp;?" -}}
+{{- $content = replace $content " »" "&nbsp;»" -}}
+{{- $content = replace $content "« " "«&nbsp;" -}}
+{{- $content = replace $content " %" "&nbsp;%" -}}
+{{- $content = replace $content " €" "&nbsp;€" -}}
+{{- $content = replace $content " —" "&nbsp;—" -}}
+{{- $content = replace $content "— " "—&nbsp;" -}}
+{{- $content = $content | markdownify -}}
+{{- $content | safeHTML -}}
