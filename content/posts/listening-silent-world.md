@@ -1,8 +1,8 @@
 ---
 title: "L’écoute d’un monde qui ne parle pas"
-date: 2025-09-12T18:00:00+02:00
+date: 2025-09-12T19:00:00+02:00
 draft: false
-description: "La science éclaire ; au-delà, des eaux corsaires où priment valeurs, intérêts et pouvoirs."
+sumarry: "La science éclaire ; au-delà, des eaux corsaires où priment valeurs, intérêts et pouvoirs."
 tags: ["Science", "Épistémologie"]
 categories: ["Philosophie"]
 author: "Gaëtan Bouget"
