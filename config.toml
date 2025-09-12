@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://gbouget.github.io/blog/'
 defaultContentLanguage = "fr"
 languageCode = 'fr-FR'
 title = 'Écrits volatiles'
