@@ -2,19 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://192.168.1.34:1313/articles/</loc>
-    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <loc>http://192.168.1.34:1313/posts/</loc>
+    <lastmod>2025-09-12T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.34:1313/categories/</loc>
+    <lastmod>2025-09-12T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.34:1313/</loc>
+    <lastmod>2025-09-12T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.34:1313/tags/%C3%A9pist%C3%A9mologie/</loc>
+    <lastmod>2025-09-12T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.34:1313/l%C3%A9coute-dun-monde-qui-ne-parle-pas/</loc>
+    <lastmod>2025-09-12T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.34:1313/categories/philosophie/</loc>
+    <lastmod>2025-09-12T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.34:1313/tags/science/</loc>
+    <lastmod>2025-09-12T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.34:1313/tags/</loc>
+    <lastmod>2025-09-12T18:00:00+02:00</lastmod>
   </url><url>
     <loc>http://192.168.1.34:1313/tags/bonheur/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.1.34:1313/tags/bourse/</loc>
-    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://192.168.1.34:1313/categories/</loc>
-    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://192.168.1.34:1313/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.1.34:1313/tags/finance/</loc>
@@ -26,13 +41,10 @@
     <loc>http://192.168.1.34:1313/tags/investissement/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://192.168.1.34:1313/articles/money-light-shadown-happiness/</loc>
+    <loc>http://192.168.1.34:1313/largent-clair-obscur-du-bonheur/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.1.34:1313/tags/particulier/</loc>
-    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://192.168.1.34:1313/tags/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
   </url>
 </urlset>
