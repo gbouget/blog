@@ -1,7 +1,7 @@
 baseURL = 'https://gbouget.github.io/blog/'
 defaultContentLanguage = "fr"
 languageCode = 'fr-FR'
-title = 'Écrits volatiles'
+title = 'Écrits volatils'
 theme = 'PaperMod'
 
 [pagination]
@@ -18,7 +18,7 @@ posts_title = "Articles"
 
   [params.homeInfoParams]
     Title = "Bienvenue sur mon blog 👋"
-    Content = "Entre ordre apparent et chaos réfléchi, le blog Écrits volatiles rassemble quelques pensées en perpétuel mouvement. Accepter de les immobiliser un instant, à l’écrit ou à l’oral, c’est leur permettre de voyager."
+    Content = "Entre ordre apparent et chaos réfléchi, le blog Écrits volatils rassemble quelques pensées en perpétuel mouvement. Accepter de les immobiliser un instant, à l’écrit ou à l’oral, c’est leur permettre de voyager."
 
 [[menu.main]]
   name = "Articles"
