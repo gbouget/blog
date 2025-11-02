@@ -115,7 +115,7 @@ Un drone d’assainissement s’approcha. La tête d’aspiration descendit. L�
 {{< fr >}}
 Sous ses allures de jeu de tir à la troisième personne, *Helldivers 2* se distingue par une métacampagne mondiale : les batailles menées par les joueurs du monde entier façonnent le scénario officiel. Le jeu devient ainsi le support d’une narration collective où chaque opération gagnée ou perdue s’inscrit dans le canon et donne à la communauté un rôle actif dans le déroulé des événements de la fiction.
 
-La nouvelle s’ancre dans cet univers, né d’une forme de dialogue entre le studio et les joueurs. *Helldivers 2* ne raconte pas de grandes histoires : il en esquisse les contours, laissant aux joueurs le soin de les remplir. Ce silence narratif est à la fois une faiblesse et un espace de liberté. D’ordinaire, les objectifs majeurs tombent, sont accomplis, puis s’oublient. Au premier rang des exceptions, figure *La Crique de Malevelon*, une débâcle devenue récit fondateur.
+Ma nouvelle s’ancre dans cet univers, né d’une forme de dialogue entre le studio et les joueurs. *Helldivers 2* ne raconte pas de grandes histoires : il en esquisse les contours, laissant aux joueurs le soin de les remplir. Ce silence narratif est à la fois une faiblesse et un espace de création. D’ordinaire, les objectifs majeurs sont annoncés, accomplis, puis oubliés. Au premier rang des exceptions : *La Crique de Malevelon*, une débâcle devenue récit fondateur.
 
 *Fiction non officielle inspirée du lore de Helldivers (Arrowhead/Sony). Aucune exploitation commerciale.*
 {{< /fr >}}
