@@ -93,7 +93,7 @@ Il ferma les yeux un instant, s’autorisant cette faiblesse. Puis il les rouvri
 
 Sur le réseau public de la Super-Terre, une note s’afficha brièvement :
 
-> *Succès tactique sur La Crique de Malevelon. Objectif primaire atteint. Gloire aux Helldivers tombés au champ d’honneur. La démocratie contrôlée progresse. Leurs sacrifices ne seront jamais oubliés.*
+> *Succès tactique sur La Crique de Malevelon. Objectif primaire atteint. Gloire aux Helldivers morts au champ d’honneur. La démocratie contrôlée progresse. Leurs sacrifices ne seront jamais oubliés.*
 
 Le message resta visible une poignée de secondes, puis fut remplacé par un bulletin d’information sur un autre front ouvert dans le secteur des *Terminides*. Les noms de Derril et Elera ne furent pas mentionnés.
 
@@ -103,7 +103,7 @@ Il se retourna vers son moniteur. Un nouvel ordre de mission attendait. Secteur 
 
 Il s’assit, prit son stylet et signa.
 
-La Destruction Créatrice corrigea sa trajectoire et mit le cap vers la nouvelle destination. Derrière lui, un bourgeon de station de rechargement *Automaton* émergeait déjà là où deux soldats étaient tombés quelques jours plus tôt. Les robots avaient arraché le drapeau et effacé presque toute trace. Coincé dans une grille tordue, un minuscule éclat du pendentif d’Elera accrochait encore la lumière.
+La Destruction Créatrice corrigea sa trajectoire et mit le cap vers la nouvelle destination. Derrière lui, un bourgeon de station de rechargement *Automaton* émergeait déjà là où deux soldats avaient perdu la vie quelques jours plus tôt. Les robots avaient arraché le drapeau et effacé presque toute trace. Coincé dans une grille tordue, un minuscule éclat du pendentif d’Elera accrochait encore la lumière.
 
 Un drone d’assainissement s’approcha. La tête d’aspiration descendit. L’éclat disparut.
 {{< /fr >}}
