@@ -5,18 +5,16 @@ draft: false
 author: "Gaëtan Bouget"
 tags: ["nouvelle", "fiction", "science-fiction", "helldivers"]
 summary: "Nouvelle de science-fiction approuvée par le Ministère de la Vérité."
-slug: "position-lost-fall-back"
 ShowToc: false
 TocOpen: false
 cover:
-  image: "/images/position-lost-fall-back.png"
-  thumbnail: "/images/position-lost-fall-back.png"
-  relative: false
+  image: "position-lost-fall-back.png"
+  thumbnail: "position-lost-fall-back.png"
+  relative: true
   hiddenInSingle: true
   hiddenInList: true
 images:
-  - "/images/position-lost-fall-back.png"
-hideSummary: false
+  - "position-lost-fall-back.png"
 ---
 {{< fr >}}
 ## Croiseur – Salle de Commandement
