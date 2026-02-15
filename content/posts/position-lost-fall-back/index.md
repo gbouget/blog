@@ -3,7 +3,6 @@ title: "Position perdue : repliez-vous"
 date: 2025-11-02T10:00:00+01:00
 draft: false
 author: "Gaëtan Bouget"
-tags: ["nouvelle", "fiction", "science-fiction", "helldivers"]
 summary: "Nouvelle de science-fiction approuvée par le Ministère de la Vérité."
 ShowToc: false
 TocOpen: false

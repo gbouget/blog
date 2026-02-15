@@ -3,8 +3,6 @@ title: "L’écoute d’un monde qui ne parle pas"
 date: 2025-09-12T19:00:00+02:00
 draft: false
 summary: "La méthode scientifique trace une route dans le paysage incertain de la connaissance. Mais au-delà de sa lisière s’étend la jungle des décisions humaines, où s’entrecroisent valeurs, intérêts et rapports de pouvoir."
-tags: ["Science", "Épistémologie"]
-categories: ["Philosophie"]
 author: "Gaëtan Bouget"
 ShowToc: true
 TocOpen: false
