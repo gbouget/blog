@@ -8,12 +8,11 @@ ShowToc: false
 TocOpen: false
 cover:
   image: "moments-after.png"
-  thumbnail: "moments-after.png"
-  relative: false
+  relative: true
   hiddenInSingle: true
   hiddenInList: true
 images:
-  - "images/moments-after.png"
+  - "moments-after.png"
 ---
 {{< fr >}}
 
