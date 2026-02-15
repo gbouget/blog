@@ -7,12 +7,12 @@ summary: "Un « tiens » vaut-il mieux que dix « tu l'auras » ?"
 ShowToc: false
 TocOpen: false
 cover:
-  image: "moments-after.png"
+  image: "images/moments-after.png"
   relative: true
   hiddenInSingle: true
   hiddenInList: true
 images:
-  - "moments-after.png"
+  - "images/moments-after.png"
 ---
 {{< fr >}}
 
