@@ -2,8 +2,6 @@
 title: "L’argent, clair-obscur du bonheur"
 date: 2025-07-26
 draft: false
-tags: ["Finance", "Investissement", "Particulier", "Bourse", "Bonheur"]
-categories: ["Investissement"]
 author: "Gaëtan Bouget"
 ---
 ## Ombres et lumières des élans financiers
